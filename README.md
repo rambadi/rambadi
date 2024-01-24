@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+This is my GitHub repository. Looking forward to contributing to the community!
 <!--
 **rambadi/rambadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
